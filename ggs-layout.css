@@ -1,0 +1,29 @@
+#slogan { 
+  font-style: italic;
+}
+img { max-width: 100% !important; }
+nav {
+  text-align: center;
+  line-height: 2em;
+}
+#nav a { padding: 0.5em 1em }
+blockquote {
+  padding: 0.5em;
+  font-style: italic;
+}
+ul {
+  margin-left: 0;
+  padding-left: 1em;
+}
+ol { 
+  list-style-position: inside;
+  margin-left: 0;
+  padding-left: 1.25em;
+  text-indent: -1.0em;
+}
+.info {
+  font-size: smaller;
+}
+#inline {
+  padding-top: 1.0em;
+}
