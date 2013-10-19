@@ -1,6 +1,10 @@
 #slogan { 
   font-style: italic;
 }
+/* It looks like img should be set in screen.css, but for
+ * some reason it doesn't seem to "take" for me. This next 
+ * line does that job.
+ */
 img { max-width: 100% !important; }
 nav {
   text-align: center;

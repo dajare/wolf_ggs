@@ -1,8 +1,8 @@
 /*
 *
 *  Golden Grid System (1.01)	<http://goldengridsystem.com/>
-*  by Joni Korpi 				<http://jonikorpi.com/>
-*  licensed under MIT			<http://opensource.org/licenses/mit-license.php>
+*  by Joni Korpi 		<http://jonikorpi.com/>
+*  licensed under MIT		<http://opensource.org/licenses/mit-license.php>
 *	
 */
 /*
@@ -206,12 +206,10 @@ body {
 */
 body {
   font-family: "Noticia Text", Georgia, "Times New Roman", serif;
-/*  color: #657b83;
-  background-color: #fdf6e3;
-*/  }
+}
 h2, h3, h4, h5, h6 {
   font-family: "Cantarell", arial, helvetica, sans-serif;
-  }
+}
 
 /*
 *
@@ -328,7 +326,8 @@ h3 {
     font-size: 1em;
   }
   header, footer, #twoway {
-    margin: 0 16.666666666666664%;
+    /* margin: 0 16.666666666666664%; */
+	margin: 0 8.333333333333332%;
   }
 }
 /* @media screen and (min-width: 1200px) */
@@ -347,7 +346,8 @@ h3 {
     font-size: 1em;
   }
   header, footer, #twoway {
-    margin: 0 27.77777777777778%;
+    /* margin: 0 27.77777777777778%; */
+	margin: 0 13.88888888888889;
   }
 }
 /* @media screen and (min-width: 1680px) */
