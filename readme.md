@@ -30,7 +30,7 @@ Also note:
 
 1. In your Wolf admin, go to `Files > themes` and create a folder named `ggs`; open the folder.
 1. Upload the four (4) `.css` files to the `ggs` folder (ggs-dark, ggs-layout, ggs-light, screen).
-1. Go the `Snippets` tab, and create new snippet called `gss-inline`. Copy/paste the contents of the `ggs-inline.snippet.php` file into the body of this snippet; make sure filter is set to `--none--`. Save.
+1. Go the `Snippets` tab, and create new snippet called `ggs-inline`. Copy/paste the contents of the `ggs-inline.snippet.php` file into the body of this snippet; make sure filter is set to `--none--`. Save.
 1. Go to the `Layouts` tab, and create a new layout called `GGS`, with the Content-Type of `text/html`. Copy/paste the contents of the `GGS.html` file into the body of this layout.\* Save.  
 \* *The default 'flavour' is DARK; change line 29 to call `ggs-light.css` if you prefer to use the LIGHT version.* 
 1. Go to the `Pages` tab, and open the `Home Page` for editing. Under the `Settings` tab, choose `GGS` from the Layout drop-down. Save.
